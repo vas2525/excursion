@@ -39,3 +39,15 @@ p {
   font-size: 21px;
   color: gray;
 }
+
+.mobile-phone-image {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.footer-copyright {
+  font-size: 30px;
+  font-weight: bold;
+  color: gray;
+  text-align: right;
+}
