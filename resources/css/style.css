@@ -9,6 +9,19 @@ body {
   height: 100%;
 }
 
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.download-link {
+  color: aquamarine;
+  font-size: 16px;
+  margin-bottom: 30px;
+}
+
 .container {
   display: flex;
   flex-direction: column;
@@ -17,24 +30,12 @@ body {
   min-height: 100vh;
 }
 
-h1 {
-  font-size: 2.5rem;
-  margin-bottom: 20px;
+h2 {
+  font-weight: 300;
+  font-size: 42px;
 }
 
-.download-link {
+p {
+  font-size: 21px;
   color: gray;
-  font-size: 1rem;
-  margin-bottom: 30px;
-}
-
-.phone-container {
-  width: 300px;
-  height: auto;
-}
-
-.phone-image {
-  width: 100%;
-  height: auto;
-  border-radius: 20px;
 }
